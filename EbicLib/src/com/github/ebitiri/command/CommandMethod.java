@@ -30,6 +30,7 @@ public class CommandMethod implements CommandObject{
 		this.parsers = ps;
 		this.playerOnly = po;
 		this.property = p;
+		int x = 0;
 	}
 	
 	/**
